@@ -1,5 +1,6 @@
 ### Bonjour je m'appelle Rémi 👋
 
+Je fait un BTS SIO en alternance 
 
 <!--
 **Darkman-dev/Darkman-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
